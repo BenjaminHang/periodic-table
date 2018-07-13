@@ -1,0 +1,16 @@
+{
+    "name": "配料质量计算",
+    "short_name": "Periodic Table",
+    "display": "standalone",
+    "scope": "./",
+    "start_url": "./",
+    "theme_color": "#8888ff",
+    "background_color": "#aaaaff",
+    "icons": [
+        {
+            "src": "./calc.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
